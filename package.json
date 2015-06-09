@@ -5,8 +5,9 @@
     "type": "git",
     "url": "https://github.com/lmcnern/band-name-generator"
   },
-  "description": "Band name generator project for Foundations 2: JavaScript at codefellows",
+  "description": "Band Name Generator project for Foundations 2: JavaScript at codefellows",
   "dependencies": {
+    "express": "^4.12.4"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
