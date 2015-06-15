@@ -1,0 +1,32 @@
+body {
+  background-color: #FFF6E5;
+  font-family: ubuntu;
+}
+
+h1 {
+  color: #FF7F66;
+  position: relative;
+  right: -300px;
+}
+
+h4 {
+  color: #2185C5;
+}
+
+input[type=text] {
+  border: 1px dotted #EB7F00;
+  margin: 4px;
+  padding: 5px;
+  border-radius: 7pt;
+}
+
+label {
+  font-family: ubuntu;
+  color: #7ECEFD;
+}
+
+button {
+  font-family: ubuntu;
+  cursor: pointer;
+  border: #7ECEFD;
+}
